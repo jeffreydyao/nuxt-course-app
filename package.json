@@ -10,6 +10,9 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.1.1",
     "@tailwindcss/typography": "^0.5.7",
-    "nuxt": "3.0.0-rc.12"
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.6.0",
+    "nuxt": "3.0.0-rc.12",
+    "prettier-plugin-tailwindcss": "^0.1.13"
   }
 }
